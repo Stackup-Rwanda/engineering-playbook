@@ -22,7 +22,7 @@
 Branches created should be named using the following format:
 
 ```
-{story type}-{story summary}-{pivotal tracker id}
+{story type}-{story summary}-{pivotal/trello tracker id}
 ```
 
 `story type` - Indicates the context of the branch and should be one of:
@@ -33,7 +33,7 @@ Branches created should be named using the following format:
 
 `story summary` - Short 2-3 words summary about what the branch contains
 
-`pivotal tracker id` - The Id of the pivotal tracker story associated with the commit
+`pivotal tracker id` - The Id of the pivotal tracker story associated with the commit. It should be noted that pivotal tracker id can be substituted by another project management tool such as Trello.
 
 **Example**
 
